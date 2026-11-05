@@ -1,0 +1,6 @@
+{
+  "name": "Pole Chudes: Fútbol (Mbappé)",
+  "description": "Football quiz game in Spanish and Armenian with Wheel of Fortune drum to guess the secret word MBAPPE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
